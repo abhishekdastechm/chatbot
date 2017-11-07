@@ -1,0 +1,9 @@
+Reading JSON: 
+==============
+https://stackoverflow.com/questions/44935592/working-with-json-in-watson-python-sdk
+
+
+Flask REST: 
+==========
+https://pythonspot.com/en/flask-web-app-with-python/
+
