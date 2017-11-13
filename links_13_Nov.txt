@@ -1,0 +1,6 @@
+https://github.com/sohelamin/chatbot/blob/master/templates/chat.html
+
+https://ultimatedjango.com/blog/how-to-consume-rest-apis-with-django-python-reques/
+
+Imp: Required example
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
